@@ -1,0 +1,2 @@
+C:\Users\diecamdia\Documents\RestaurantManager\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\diecamdia\Documents\RestaurantManager\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
